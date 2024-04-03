@@ -18,13 +18,14 @@
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.03.17 ~ 2024.04.02  
 >[프로젝트 상세 설명 확인하기](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds)
-</br>
+
 > 프로젝트 사용 개발환경
 >- 언어 : java, html, css, js, python
 >- 라이브러리 : boottrap, vanillaJS, AJAX
 >- 개발도구 : eclipse, jupyter, VScode
 >- 데이터 베이스 : MySQL
 >- 서버 및 협업 도구 : GitHub, tomcat, Flask
+>  
 </br>
 
 
